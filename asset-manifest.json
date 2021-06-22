@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yispaceapp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/yispaceapp/static/js/main.33cf9737.chunk.js",
+    "main.js.map": "/yispaceapp/static/js/main.33cf9737.chunk.js.map",
+    "runtime-main.js": "/yispaceapp/static/js/runtime-main.f94a4df5.js",
+    "runtime-main.js.map": "/yispaceapp/static/js/runtime-main.f94a4df5.js.map",
+    "static/css/2.c0828da0.chunk.css": "/yispaceapp/static/css/2.c0828da0.chunk.css",
+    "static/js/2.6ec38223.chunk.js": "/yispaceapp/static/js/2.6ec38223.chunk.js",
+    "static/js/2.6ec38223.chunk.js.map": "/yispaceapp/static/js/2.6ec38223.chunk.js.map",
+    "index.html": "/yispaceapp/index.html",
+    "static/css/2.c0828da0.chunk.css.map": "/yispaceapp/static/css/2.c0828da0.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/yispaceapp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.6ec38223.chunk.js.LICENSE.txt": "/yispaceapp/static/js/2.6ec38223.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f94a4df5.js",
+    "static/css/2.c0828da0.chunk.css",
+    "static/js/2.6ec38223.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.33cf9737.chunk.js"
+  ]
+}
