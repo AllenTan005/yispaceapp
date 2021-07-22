@@ -11,12 +11,24 @@ import SearchTable from "./components/SearchTable";
 function App() {
   const [countries, setCountries] = useState([]);
 
-  useEffect(() => {
+  useEffect( () => {
+    const fetchData = async () =>{
+
+      const data = await Promise.all([
+        fetchCountry()
+      ]);
+         console.log(data)   
+};
+fetchData()
+  }, []);
+
+
+  const fetchCountry = () => {
     fetch("https://restcountries.eu/rest/v2/all")
       .then((response) => response.json())
       .then((result) => setCountries(result))
-      .catch((error) => console.log(error));
-  }, []);
+       .catch((error) => console.log(error));
+  }
 
   return (
     <div className="App">
